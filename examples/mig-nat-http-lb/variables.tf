@@ -24,4 +24,5 @@ variable "network_name" {
 
 variable "project" {
   type = string
+  default = "avian-amulet-378416"
 }
